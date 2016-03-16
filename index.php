@@ -1,4 +1,3 @@
 <?php
-
-echo 'Arquivo teste    ';
+echo 'Arquivo teste';
 ?>
